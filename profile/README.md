@@ -1,3 +1,5 @@
+![Quix - More than managed Kafka](.github/profile/Quix-GitHub-banner.jpg "Quix")
+
 ## Hi there!
 
 At Quix, our mission is to help developers work with streaming data using the languages they love most. We started with Python since it is the No.1 most loved language, and the most widespread language for ML & AI, as well as being widely adopted by citizen developers around the world.

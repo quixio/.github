@@ -1,4 +1,4 @@
-![Quix - More than managed Kafka](/.github/profile/Quix-GitHub-banner.jpg)
+![Quix - More than managed Kafka](Quix-GitHub-banner.jpg)
 
 ## Hi there!
 

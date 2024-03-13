@@ -1,21 +1,19 @@
 ![Quix - More than managed Kafka](https://github.com/quixio/.github/blob/main/profile/Quix-GitHub-banner.jpg)
 
-## Hi there!
+## Hi there 👋
 
 At Quix, our mission is to help developers work with streaming data using the languages they love most. We started with Python since it is the No.1 most loved language, and the most widespread language for ML & AI, as well as being widely adopted by citizen developers around the world.
 
-Quix is a platform for developers working with streaming data.
+Quix is a framework for Python developers working with streaming data.
 
-We are the first platform natively architected around live data-in-flight (message broker) technologies (like Kafka, Pub/Sub, Kenisis, MQTT and Pulsar). Unlike traditional data engineering platforms which have been architected around static/historic data technologies (databases and data lakes).
+We are the first platform natively architected around live data-in-flight (message broker) technologies (like Kafka, Pub/Sub, Kinesis, MQTT and Pulsar). We are unlike traditional data engineering platforms which have been architected around static/historic data technologies (databases and data lakes).
 
 ![]()
 
-[![Quix on Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fquix_io)](https://twitter.com/quix_io)
-[![The Stream Community Slack](https://img.shields.io/badge/-The%20Stream%20Slack-blueviolet)](https://quix.io/slack-invite)
+[![Docs](https://img.shields.io/badge/-Docs-red?logo=read-the-docs)](https://www.quix.io/docs/client-library-intro.html)
+[![Community Slack](https://img.shields.io/badge/Community%20Slack-blueviolet?logo=slack)](https://quix.io/slack-invite)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin)](https://www.linkedin.com/company/70925173/)
-[![Events](https://img.shields.io/badge/-Events-blueviolet)](https://quix.io/community#events)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube)](https://www.youtube.com/channel/UCrijXvbQg67m9-le28c7rPA)
-[![Docs](https://img.shields.io/badge/-Docs-blueviolet)](https://quix.io/docs)
+[![Quix on Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fquix_io)](https://twitter.com/quix_io)
 
 
 ## Community
